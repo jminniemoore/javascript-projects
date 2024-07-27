@@ -8,3 +8,8 @@ printMessage();
 message = "Goodbye";
 printMessage();
 
+function makeSandwich(breadType, fillingType, condiments) {
+
+   // TODO: make a sandwich with the given ingredients
+
+}
